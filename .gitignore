@@ -1,0 +1,9 @@
+.bundle
+.project
+.rvmrc
+*.gem
+*.swp
+coverage
+Gemfile.lock
+log/*
+pkg/*
